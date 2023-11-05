@@ -45,12 +45,11 @@ header a {
 }
 
 /* Hero section */
-#hero {
-  background-image: url("hero-option2.png");
-  background-size: cover;
-  color: #0e09096e;
-  text-align: center;
-  padding: 223px 20px;
+img {
+  /* background-image: url("fibonacci.png"); */
+  /* background-size: cover; */
+  max-width: 1200px;
+  height: auto;
 }
 
 #hero h1 {
